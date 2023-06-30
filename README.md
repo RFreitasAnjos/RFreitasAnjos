@@ -3,9 +3,7 @@
 Hello! Welcome to my Github profile.
 ## My name is Renan Freitas and my nickname is "SeuMadr0ga"!
 
-I'm student the course analysis and systems development and my hobby is play games and learn music.
-
-![Snake animation](https://github.com/RFreitasAnjos/RFreitasAnjos/blob/output/github-contribution-grid-snake.svg)
+I'm student the course systems analysis and development and my hobby is play games and learn music.
 
 I'm studying at the moment:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40" />
