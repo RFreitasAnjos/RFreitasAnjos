@@ -1,7 +1,5 @@
-### Hi there 👋
-
-Hello! Welcome to my Github profile.
-## My name is Renan Freitas and my nickname is "SeuMadr0ga"!
+## Hello! Welcome to my GitHub
+## My name is Renan Freitas and my nickname is "Madruguinha"!
 
 I'm student the course systems analysis and development and my hobby is play games and learn music.
 
