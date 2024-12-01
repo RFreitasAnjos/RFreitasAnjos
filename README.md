@@ -17,7 +17,7 @@
   <h3>My Projects</p>
   <div>
     <div>
-      <a href="">
+      <a href="https://github.com/RFreitasAnjos/pokedexVueJS">
         <h4>PokeDex</h4>
       </a>
       <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
