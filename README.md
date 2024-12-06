@@ -17,7 +17,7 @@
   <h3>My Projects</p>
   <div>
     <div>
-      <a href="https://github.com/RFreitasAnjos/pokedexVueJS">
+      <a href="https://imaginative-lebkuchen-02619c.netlify.app">
         <h4>PokeDex</h4>
       </a>
       <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
@@ -31,15 +31,6 @@
         <h4>CRUD Library</h4>
       </a>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-    </div>
-    <div>
-      <a href="">
-        <h4>Predicty Values imobile System</h4>  
-      </a>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-      <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-      <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
     </div>
   </div>
 </div>
