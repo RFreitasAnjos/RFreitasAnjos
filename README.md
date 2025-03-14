@@ -32,6 +32,15 @@
       </a>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
     </div>
+    <div>
+      <a href="https://github.com/RFreitasAnjos/botWhatsApp">
+        <h4>ChatBot WhatsApp</h4>
+      </a>
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+      <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+    </div>
+    
   </div>
 </div>
 <div>
