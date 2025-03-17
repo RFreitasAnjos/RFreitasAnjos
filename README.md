@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white">
     </div>
     <div>
-      <a href="https://github.com/RFreitasAnjos/Crud-TodoList">
+      <a href="https://github.com/RFreitasAnjos/TodoList-Spring.git">
         <h4>CRUD Library</h4>
       </a>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
