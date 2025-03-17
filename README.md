@@ -40,7 +40,15 @@
       <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
     </div>
-    
+    <div>
+      <a href="https://colab.research.google.com/drive/13J-6BRbJubAjMnO-XgO6iNpt4juaFRKX?usp=sharing">
+        <h4>Blood Cells Image - Deep Learning</h4>
+      </a>
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+      <img src="	https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+    </div>
   </div>
 </div>
 <div>
