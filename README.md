@@ -1,7 +1,7 @@
 # Hello! 💻
 <div>
   <h2>My name is Renan</p>
-  <p>I'm fullstack developer and this place is my repository.</p>
+  <p>I'm fullstack developer.</p>
     <div>
     <h5>My Social</h5>
     <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -27,8 +27,8 @@
       <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white">
     </div>
     <div>
-      <a href="https://github.com/RFreitasAnjos/TodoList-Spring.git">
-        <h4>To Do-List</h4>
+      <a href="https://github.com/RFreitasAnjos/oxefood-renan-api.git">
+        <h4>Oxefood Api</h4>
       </a>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
     </div>
