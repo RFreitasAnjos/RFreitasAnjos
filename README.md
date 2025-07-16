@@ -1,63 +1,48 @@
-# Hello! 💻
-<div>
-  <h2>My name is Renan</p>
-  <p>I'm fullstack developer.</p>
-    <div>
-    <h5>My Social</h5>
-    <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href=""><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-    <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href=""><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-    <a href=""><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
-    <a href=""><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  </div>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 </div>
 
-<div>
-  <h3>My Projects</p>
-  <div>
-    <div>
-      <a href="https://imaginative-lebkuchen-02619c.netlify.app">
-        <h4>PokeDex</h4>
-      </a>
-      <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white">
-    </div>
-    <div>
-      <a href="https://github.com/RFreitasAnjos/oxefood-renan-api.git">
-        <h4>Oxefood Api</h4>
-      </a>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-    </div>
-    <div>
-      <a href="https://github.com/RFreitasAnjos/botWhatsApp">
-        <h4>ChatBot WhatsApp</h4>
-      </a>
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-      <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-    </div>
-    <div>
-      <a href="https://colab.research.google.com/drive/13J-6BRbJubAjMnO-XgO6iNpt4juaFRKX?usp=sharing">
-        <h4>Blood Cells Image - Deep Learning</h4>
-      </a>
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-      <img src="	https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-    </div>
-  </div>
-</div>
-<div>
-  <div>
-    <img height="full" src="https://github-readme-stats.vercel.app/api?username=RFreitasAnjos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RFreitasAnjos&layout=compact&langs_count=7&theme=dark"/>  
-  </div>
-  
-  
-  
-<!-- <img height="full" src="https://github-readme-stats.vercel.app/api/pin/?username=RFreitasAnjos&repo=RFreitasAnjos&theme=dark" /> -->
-</div>
+# 🚀 Hello, I'm Renan Freitas - Full-Stack Developer 
+
+## About me
+
+✨ Since chlidren i love technology and learn new habilities. I love to learn everything, I'd like to meet all the person the world using the technology and education. ✨
+
+## Soft skill
+
+💻 Aqui estão algumas das tecnologias que eu domino:
+
+-  Linguagens de Programação: 
+
+    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,cs,ts)](https://skillicons.dev)
+- Frameworks e Bibliotecas: 
+
+    [![My Skills](https://skillicons.dev/icons?i=spring,react,dotnet,nestjs)](https://skillicons.dev)
+- Dados: 
+
+    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,firebase)](https://skillicons.dev)
+- Ferramentas e Tecnologias: 
+
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
+- Desenvolvimento Web:
+
+    [![My Skills](https://skillicons.dev/icons?i=html,css,angular,tailwind,bootstrap)](https://skillicons.dev) 
+## Projetos Criativos
+
+🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
+
+1. [Projeto 1](https://github.com/RFreitasAnjos/botWhatsApp): Uma descrição emocionante do projeto e como ele mudou o mundo.
+2. [Projeto 2](https://github.com/RFreitasAnjos/Auth-Google): Uma aventura fascinante com código e arte.
+3. [Projeto 3](https://github.com/RFreitasAnjos/oxefood-api-renan): Uma experiência interativa que desafia as leis da física.
+
+## Vamos Criar Algo Incrível! 💫
+
+💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
+
+## Vamos Conectar!
+
+[![Instagram](https://img.shields.io/badge/-p.yxis-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
+[![Facebook](https://img.shields.io/badge/-RenanFreitas-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})]({Link})
+[![Twitter Follow](https://img.shields.io/twitter/follow/copodabk?style=social)]({Link})
+
+![RFreitasAnjos GitHub stats](https://github-readme-stats.vercel.app/api?username=RFreitasAnjos\&rank_icon=percentile)
