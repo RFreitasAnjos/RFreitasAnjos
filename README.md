@@ -27,9 +27,9 @@
 
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
-1. [Projeto 1](https://github.com/RFreitasAnjos/botWhatsApp): Uma descrição emocionante do projeto e como ele mudou o mundo.
-2. [Projeto 2](https://github.com/RFreitasAnjos/Auth-Google): Uma aventura fascinante com código e arte.
-3. [Projeto 3](https://github.com/RFreitasAnjos/oxefood-api-renan): Uma experiência interativa que desafia as leis da física.
+1. [ChatBot WhatsApp](https://github.com/RFreitasAnjos/botWhatsApp): <b>SAF</b> ChatBot desenvolvido para auxiliar colaboradores externos.
+2. [Victória Educational](https://github.com/RFreitasAnjos/victoria_website): Ambiente especializado em educação voltado para o atendimento de estudantes do nível fundamental, médio e graduandos), pais e professores.
+3. [Viaggia](https://github.com/Viaggia): Projeto Fullstack realizado em equipe.
 
 ## Vamos Criar Algo Incrível! 💫
 
