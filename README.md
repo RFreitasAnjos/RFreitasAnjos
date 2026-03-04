@@ -1,34 +1,37 @@
-# 🚀 Hello, I'm Renan Freitas - Full-Stack Developer 
+# 👨‍💻 Renan Freitas
+## WebSite Portfolio -> <a href="https://rfreitasanjos.github.io/meu-portifolio/">meu portfolio</a>
 
-## About me
+```json
+{
+  "name": "Renan Freitas",
+  "role": "DevSecOps",
+  "focus": [
+    "Payment Systems",
+    "Secure APIs",
+    "CI/CD Automation",
+    "IAM & MFA"
+  ],
+  "stack": {
+    "backend": ["Spring Boot", "NestJS", "ASP.NET"],
+    "frontend": ["React", "React Native", "TailwindCSS"],
+    "devops": ["Docker", "GitHub Actions", "CI/CD"]
+  },
+  "currentlyStudying": [
+    "GitHub Foundations (GH-900)",
+    "Advanced DevOps",
+    "Cybersecurity & IAM"
+  ],
+  "philosophy": "Não creio que haja uma emoção, mais intensa para um inventor do que ver suas criações funcionando.",
+  "Author": "Nikola Tesla"
+}
 
-✨ Since chlidren i love technology and learn new habilities. I love to learn everything, I'd like to meet all the person the world using the technology and education. ✨
-
-## Soft skill
-
-💻 Aqui estão algumas das tecnologias que eu domino:
-
--  Linguagens de Programação: 
-
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,cs,ts)](https://skillicons.dev)
-- Frameworks e Bibliotecas: 
-
-    [![My Skills](https://skillicons.dev/icons?i=spring,react,dotnet,nestjs)](https://skillicons.dev)
-- Dados: 
-
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,firebase)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
-
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
-- Desenvolvimento Web:
-
-    [![My Skills](https://skillicons.dev/icons?i=html,css,angular,tailwind,bootstrap)](https://skillicons.dev) 
+```
 ## Projetos Criativos
 
-🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
+🎨 Aqui estão alguns projetos criativos e inovadores que fiz parte:
 
 1. [ChatBot WhatsApp](https://github.com/RFreitasAnjos/botWhatsApp): <b>SAF</b> ChatBot desenvolvido para auxiliar colaboradores externos.
-2. [Victória Educational](https://github.com/RFreitasAnjos/victoria_website): Ambiente especializado em educação voltado para o atendimento de estudantes do nível fundamental, médio e graduandos), pais e professores.
+2. [Carona FC](https://github.com/caronaFC): Aplicativo mobile nativo de viagens focado em torcedores apaixonados por fotebol.
 3. [Viaggia](https://github.com/Viaggia): Projeto Fullstack realizado em equipe.
 
 ## Vamos Criar Algo Incrível! 💫
@@ -37,8 +40,10 @@
 
 ## Vamos Conectar!
 
-[![Instagram](https://img.shields.io/badge/-p.yxis-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
+[![Instagram](https://img.shields.io/badge/-renan.cli-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
 [![Facebook](https://img.shields.io/badge/-RenanFreitas-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})]({Link})
 [![Twitter Follow](https://img.shields.io/twitter/follow/copodabk?style=social)]({Link})
 
-![RFreitasAnjos GitHub stats](https://github-readme-stats.vercel.app/api?username=RFreitasAnjos\&rank_icon=percentile)
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=RFreitasAnjos&theme=tokyonight&border_radius=10" />
+</p>
