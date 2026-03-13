@@ -1,6 +1,3 @@
-# 👨‍💻 Renan Freitas
-## WebSite Portfolio -> <a href="https://rfreitasanjos.github.io/meu-portifolio/">meu portfolio</a>
-
 ```json
 {
   "name": "Renan Freitas",
