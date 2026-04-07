@@ -10,7 +10,7 @@
   ],
   "stack": {
     "backend": ["Spring Boot", "NestJS", "ASP.NET"],
-    "frontend": ["React", "React Native", "TailwindCSS"],
+    "frontend": ["React", "React Native", "Angular", "VueJS", "TailwindCSS"],
     "devops": ["Docker", "GitHub Actions", "CI/CD"]
   },
   "currentlyStudying": [
